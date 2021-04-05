@@ -19,11 +19,8 @@ const add = () => {
     if (tempVar) {
         a = tempVar;
     }else
-        return
-
-
-    //debugger
-    console.log(a);
+        return;
+	
     const newP = document.createElement("p");
 	const task = document.createElement("div");
     task.innerHTML = `${a}`;
@@ -82,10 +79,7 @@ function filter(){
 	let sens = document.getElementById("case").checked;
 	for (let i=0; i<elements1.length; ++i) {
 		let e = elements1[i];
-		//console.log(e);
-		//console.log(e.childNodes);
 		let task = e.childNodes[0].outerText;
-		//console.log(task);
 		if(contains(task, text, sens))
 			e.classList.remove("displaynt");
 		else
