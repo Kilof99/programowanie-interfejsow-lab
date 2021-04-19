@@ -5,3 +5,6 @@
 
 **2. Lab2**
   * [JavaScript/JQuery](https://kilof99.github.io/programowanie-interfejsow-lab/lab2/todo.html)
+
+**3. Lab3**
+  * [React](https://kilof99.github.io/programowanie-interfejsow-lab/lab3/index.html)
