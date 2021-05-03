@@ -10,4 +10,4 @@
   * [React](https://kilof99.github.io/programowanie-interfejsow-lab/lab3/index.html)
 
 **Lab5**
-  * [Node.js](https://kilof99.github.io/programowanie-interfejsow-lab/lab5/index.html)
+  * [Node.js](https://kilof99.github.io/programowanie-interfejsow-lab/lab5)
