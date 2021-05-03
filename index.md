@@ -4,10 +4,10 @@
   * [Własna strona](https://kilof99.github.io/programowanie-interfejsow-lab/lab1/strona.html)
 
 **Lab3**
-  * [JavaScript/JQuery](https://kilof99.github.io/programowanie-interfejsow-lab/lab2/todo.html)
+  * [JavaScript/JQuery](https://kilof99.github.io/programowanie-interfejsow-lab/lab3/todo.html)
 
 **Lab4**
-  * [React](https://kilof99.github.io/programowanie-interfejsow-lab/lab3/index.html)
+  * [React](https://kilof99.github.io/programowanie-interfejsow-lab/lab4/index.html)
 
 **Lab5**
   * [Node.js](https://kilof99.github.io/lab5/)
