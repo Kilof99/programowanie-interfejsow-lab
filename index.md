@@ -11,3 +11,6 @@
 
 **Lab5**
   * [Node.js](https://kilof99.github.io/lab5/)
+
+**Lab6**
+  * [Firebase](https://kilof99.github.io/lab66/)
