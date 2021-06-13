@@ -13,4 +13,4 @@
   * [Node.js](https://kilof99.github.io/lab5/)
 
 **Lab6**
-  * [Firebase](https://kilof99.github.io/lab66/)
+  * [Firebase](https://kilof99.github.io/lab6/)
