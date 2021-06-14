@@ -29,7 +29,7 @@ const Header = () => {
                 <nav>
                     <NavLink to="/">Lista studentów</NavLink>
                     <NavLink to="/new">Dodaj studenta</NavLink>
-                    <a href="/" onClick={logout}>Wyloguj się</a>
+                    <NavLink to="/login" onClick={logout}>Wyloguj się</NavLink>
                 </nav>
                 
             </header>
